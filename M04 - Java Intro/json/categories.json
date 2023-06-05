@@ -1,0 +1,26 @@
+﻿[
+	{
+		"category": "Tech",
+		"description": "Preguntas relacionadas con tecnología."
+	},
+	{
+		"category": "Música",
+		"description": "Preguntas relacionadas con música."
+	},
+	{
+		"category": "Fighting Games",
+		"description": "Preguntas relacionadas con Fighting Games."
+	},
+	{
+		"category": "Viajes",
+		"description": "Preguntas relacionadas con viajes."
+	},
+	{
+		"category": "Filosofía",
+		"description": "Preguntas relacionadas con Filosofía."
+	},
+	{
+		"category": "Espacio",
+		"description": "Preguntas relacionadas con el Espacio."
+	}
+]
