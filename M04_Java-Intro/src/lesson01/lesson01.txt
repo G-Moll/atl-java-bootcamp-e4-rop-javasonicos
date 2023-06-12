@@ -1,0 +1,5 @@
+Bootcamp de Java - Introducción a Web Services y Chat GPT
+https://atl.academy/bootcamp/java/web-services-con-chat-gpt/
+
+Clase: “Introducción a los Web Services”
+https://docs.google.com/document/d/1et9wecL0shVTSbFIsiKQ5mMeCH3AC4TRGWTKn1WBXoY/edit

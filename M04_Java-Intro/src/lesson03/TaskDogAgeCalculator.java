@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class TaskDogAgeCalculator {
-
     /*
     1) CALCULADORA DE EDAD DE PERROS:
     Pídele al usuario que ingrese la edad de su perro.

@@ -1,0 +1,5 @@
+Bootcamp de Java - Datos Primitivos y Bucle While
+https://atl.academy/bootcamp/java/datos-primitivos-y-bucle-while/
+
+Clase: “Operadores aritméticos y de lógica”
+https://docs.google.com/document/d/14HYemTWxj32uGzVF6d9e2dgqbJf1nSYTttI8ZKAfbqM/edit

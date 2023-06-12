@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class TaskTipCalculator {
-
     /*
     4) Calculadora de propinas:
     Pídele al usuario que ingrese el total de la cuenta en un restaurante.

@@ -6,7 +6,8 @@ public class LabConditionals {
         Scanner scanner = new Scanner( System.in );
         System.out.println( "Enter your age: " );
 
-        Integer age = Integer.parseInt( scanner.nextLine() );
+        // Integer age = Integer.parseInt( scanner.nextLine() );
+        Integer age = scanner.nextInt();
         if( age >= 18 ) {
             System.out.println( "YOU ARE an Adult" );
         }

@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 public class TaskMiles2Kilometers {
-
-
     /*
     2) Conversor de millas a kilómetros:
     Pídele al usuario que ingrese una distancia en millas.
