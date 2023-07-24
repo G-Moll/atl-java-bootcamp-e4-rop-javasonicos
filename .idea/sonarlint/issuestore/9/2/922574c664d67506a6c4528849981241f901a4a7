@@ -1,13 +1,13 @@
 
-0
-java:S1220""Move this file to a named package.
-E
-java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(²Íß
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ºÏöÖ
-N	java:S106""9Replace this use of System.out or System.err by a logger.(Œ¤û
-V	java:S125#"<This block of commented-out lines of code should be removed.(Æ—Ñ§úÿÿÿÿ
-M	java:S106-"9Replace this use of System.out or System.err by a logger.(àï¿I
-S	java:S1062"9Replace this use of System.out or System.err by a logger.(Şó²õøÿÿÿÿ
-M
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+7
+java:S1220""Move this file to a named package.8çÊ÷ì‘1
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8…Ë÷ì‘1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²Íß8‡Ë÷ì‘1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ºÏöÖ8“Ë÷ì‘1
+U	java:S106""9Replace this use of System.out or System.err by a logger.(Œ¤û8•Ë÷ì‘1
+]	java:S125#"<This block of commented-out lines of code should be removed.(Æ—Ñ§úÿÿÿÿ8–Ë÷ì‘1
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(àï¿I8—Ë÷ì‘1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Şó²õøÿÿÿÿ8šË÷ì‘1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8šË÷ì‘1

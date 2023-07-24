@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Arrays;
 
 import models.Giver;
@@ -14,7 +15,7 @@ public class GiveAway {
         int counter = 0;
 
         Giver[] playersList = new Giver[ playersQuantity ];
-        ArrayList<Giver> playersTakenList
+        List<Giver> playersTakenList = new ArrayList<>();
 
         for( int i = 0; i < playersQuantity; i++ ) {
             System.out.print( "Type the players " + ( i + 1 ) + " name: " );
